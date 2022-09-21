@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f7e0f2;
+}
+main {
+    flex-grow: 1;
+}
+.pixabel{
+    margin-left: 50px;
+    position:relative;
+top:200px;
+}
